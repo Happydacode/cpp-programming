@@ -118,7 +118,7 @@ int main() {
     // Creating Savings Account object
     SavingsAccount savings(
         "SA101",
-        "Rahul",
+        "Anand",
         10000,
         5.0
     );
@@ -126,7 +126,7 @@ int main() {
     // Creating Checking Account object
     CheckingAccount checking(
         "CA101",
-        "Rahul",
+        "Anand",
         15000,
         50
     );
